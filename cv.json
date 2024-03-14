@@ -193,9 +193,9 @@
       "github": ""
     },
     {
-      "name": "SuperHero API",
+      "name": "FictiShop v1.0",
       "isActive": true,
-      "description": "Proyecto realizado durante el CFGS de Desarrollo de Aplicaciones Web. Consiste en una tienda ficticia muy sencilla, en la que se buscaba un aprendizaje del framework Angular a nivel básico. Interactuando con una API de artículos aleatorios.",
+      "description": "Proyecto realizado durante el CFGS de Desarrollo de Aplicaciones Web. Llevé a cabo un proyecto centrado en el aprendizaje básico del framework Angular. Este consistió en la creación de una tienda ficticia de simplicidad destacada, la cual implicaba la interacción con una API de artículos aleatorios.",
       "highlights": ["Angular"],
       "url": "https://ficti-shop-v1-0.vercel.app/",
       "github": ""
