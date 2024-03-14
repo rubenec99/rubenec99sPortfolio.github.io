@@ -180,21 +180,24 @@
       "isActive": true,
       "description": "Aplicación web desarrollada con Angular, Node.js, Express.js y MySQL que ofrece una plataforma para interactuar con la API de Rick and Morty. Explora información sobre personajes, episodios y más. Proyecto creado como TFG del Grado Superior de Desarrollo de Aplicaciones Web.",
       "highlights": ["Angular", "Typescript", "Express", "MySQL"],
-      "url": "https://rick-and-morty-fan-hub.vercel.app/home"
+      "url": "https://rick-and-morty-fan-hub.vercel.app/home",
+      "github": ""
     },
     {
       "name": "SuperHero API",
       "isActive": true,
       "description": "Proyecto realizado durante el CFGS de Desarrollo de Aplicaciones Web, utilizando JavaScript Vanilla para interactuar con una API. En este caso, se empleó SuperHeroAPI.",
       "highlights": ["JavaScript"],
-      "url": "https://rubenec99.github.io/SuperHeroAPIRubenEscudero.github.io/"
+      "url": "https://rubenec99.github.io/SuperHeroAPIRubenEscudero.github.io/",
+      "github": ""
     },
     {
       "name": "SuperHero API",
       "isActive": true,
       "description": "Proyecto realizado durante el CFGS de Desarrollo de Aplicaciones Web. Consiste en una tienda ficticia muy sencilla, en la que se buscaba un aprendizaje del framework Angular a nivel básico. Interactuando con una API de artículos aleatorios.",
       "highlights": ["Angular"],
-      "url": "https://ficti-shop-v1-0.vercel.app/"
+      "url": "https://ficti-shop-v1-0.vercel.app/",
+      "github": ""
     }
   ]
 }
