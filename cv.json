@@ -1,0 +1,200 @@
+{
+  "basics": {
+    "name": "Rubén Escudero Calamonte",
+    "label": "Web Developer 👨‍💻",
+    "image": "/me.webp",
+    "email": "rubenec99@gmail.com",
+    "phone": "+34 658234218",
+    "url": "https://www.linkedin.com/in/rubenescudero99/",
+    "summary": "Recientemente graduado en Desarrollo de Aplicaciones Web, actualmente desempeño el rol de QA Tester en Homeria by Glovo en Cáceres. Mi enfoque se centra en el desarrollo Frontend, con experiencia en MEAN-MySQL y Angular, comprometido con un aprendizaje continuo y la aplicación de patrones de arquitectura para garantizar la escalabilidad del código. He trabajado en equipos ágiles, aplicando metodologías como Scrum, lo que me ha permitido adaptarme rápidamente y trabajar eficientemente en entornos colaborativos. Soy apasionado del aprendizaje continuo y busco nuevas oportunidades para aplicar y desarrollar mis habilidades en proyectos desafiantes y estimulantes.",
+    "location": {
+      "address": "",
+      "postalCode": "06490",
+      "city": "Badajoz",
+      "countryCode": "ES",
+      "region": "España"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Rubén Escudero",
+        "url": "https://www.linkedin.com/in/rubenescudero99/"
+      },
+      {
+        "network": "GitHub",
+        "username": "rubenec99",
+        "url": "https://github.com/rubenec99"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Homeria by Globo",
+      "position": "QA Tester",
+      "startDate": "2023-10-01",
+      "endDate": null,
+      "summary": "Durante mi experiencia laboral, he obtenido un dominio experto en el uso de Jira y Xray para la gestión de defectos, el diseño de casos de prueba y la colaboración estrecha con equipos de desarrollo. Mi labor ha incluido el diseño y ejecución de casos de prueba para validar funcionalidad y rendimiento, abarcando pruebas unitarias, de integración, de validación y de aceptación. Además, he aplicado metodologías ágiles para garantizar la adaptabilidad y la rápida respuesta a las necesidades cambiantes de los proyectos, contribuyendo activamente en Confluence. He participado en proyectos destacados como Burger King, Dunkin' Donuts, Pizzería del Poble, Grupo Alsea, entre otros, ofreciendo ideas y retroalimentación constructiva en reuniones de equipo para asegurar la mejor experiencia para los usuarios finales. Asimismo, he utilizado herramientas como Postman para la automatización de pruebas, trabajado con bases de datos PostgreSQL y estoy familiarizado con los servicios en la nube de AWS.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "IES Albarregas",
+      "url": "https://sites.google.com/iesalbarregas.es/portada/inicio",
+      "area": "CFGS Desarrollo de aplicaciones web",
+      "studyType": "CFGS Desarrollo de aplicaciones web",
+      "startDate": "2021-09-01",
+      "endDate": "2023-12-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "Bootstrap",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Bootstrap"]
+    },
+    {
+      "name": "Java",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Java"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Angular",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Angular", "Angular JS"]
+    },
+    {
+      "name": "RXJS",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "RXJS"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Medium"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Rick and Morty Fan Hub",
+      "isActive": true,
+      "description": "Aplicación web desarrollada con Angular, Node.js, Express.js y MySQL que ofrece una plataforma para interactuar con la API de Rick and Morty. Explora información sobre personajes, episodios y más. Proyecto creado como TFG del Grado Superior de Desarrollo de Aplicaciones Web.",
+      "highlights": ["Angular", "Typescript", "Express", "MySQL"],
+      "url": "https://rick-and-morty-fan-hub.vercel.app/home"
+    },
+    {
+      "name": "SuperHero API",
+      "isActive": true,
+      "description": "Proyecto realizado durante el CFGS de Desarrollo de Aplicaciones Web, utilizando JavaScript Vanilla para interactuar con una API. En este caso, se empleó SuperHeroAPI.",
+      "highlights": ["JavaScript"],
+      "url": "https://rubenec99.github.io/SuperHeroAPIRubenEscudero.github.io/"
+    },
+    {
+      "name": "SuperHero API",
+      "isActive": true,
+      "description": "Proyecto realizado durante el CFGS de Desarrollo de Aplicaciones Web. Consiste en una tienda ficticia muy sencilla, en la que se buscaba un aprendizaje del framework Angular a nivel básico. Interactuando con una API de artículos aleatorios.",
+      "highlights": ["Angular"],
+      "url": "https://ficti-shop-v1-0.vercel.app/"
+    }
+  ]
+}
