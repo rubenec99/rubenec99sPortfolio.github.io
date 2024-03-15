@@ -6,7 +6,7 @@
     "email": "rubenec99@gmail.com",
     "phone": "+34 658234218",
     "url": "https://www.linkedin.com/in/rubenescudero99/",
-    "summary": "Recientemente graduado en Desarrollo de Aplicaciones Web, actualmente desempeño el rol de QA Tester en Homeria by Glovo en Cáceres. Mi enfoque se centra en el desarrollo Frontend, con experiencia en MEAN-MySQL y Angular, comprometido con un aprendizaje continuo y la aplicación de patrones de arquitectura para garantizar la escalabilidad del código. He trabajado en equipos ágiles, aplicando metodologías como Scrum, lo que me ha permitido adaptarme rápidamente y trabajar eficientemente en entornos colaborativos. Soy apasionado del aprendizaje continuo y busco nuevas oportunidades para aplicar y desarrollar mis habilidades en proyectos desafiantes y estimulantes.",
+    "summary": "Desarrollador web frontend apasionado por crear interfaces interactivas y atractivas. Recientemente graduado del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web, con experiencia en el stack MEAN-MySQL y Angular. Actualmente, trabajo como QA Tester en Homeria by Glovo en Cáceres, donde sigo aprendiendo y explorando nuevas tecnologías. Me considero un profesional proactivo y comprometido con el trabajo en equipo. Tengo experiencia en metodologías ágiles como Scrum y me adapto rápidamente a los cambios. Siempre estoy buscando nuevos desafíos y oportunidades para poner en práctica mis habilidades y seguir aprendiendo.",
     "location": {
       "address": "",
       "postalCode": "06490",
@@ -33,7 +33,7 @@
       "position": "QA Tester",
       "startDate": "2023-10-01",
       "endDate": null,
-      "summary": "Durante mi experiencia laboral, he obtenido un dominio experto en el uso de Jira y Xray para la gestión de defectos, el diseño de casos de prueba y la colaboración estrecha con equipos de desarrollo. Mi labor ha incluido el diseño y ejecución de casos de prueba para validar funcionalidad y rendimiento, abarcando pruebas unitarias, de integración, de validación y de aceptación. Además, he aplicado metodologías ágiles para garantizar la adaptabilidad y la rápida respuesta a las necesidades cambiantes de los proyectos, contribuyendo activamente en Confluence. He participado en proyectos destacados como Burger King, Dunkin' Donuts, Pizzería del Poble, Grupo Alsea, entre otros, ofreciendo ideas y retroalimentación constructiva en reuniones de equipo para asegurar la mejor experiencia para los usuarios finales. Asimismo, he utilizado herramientas como Postman para la automatización de pruebas, trabajado con bases de datos PostgreSQL y estoy familiarizado con los servicios en la nube de AWS.",
+      "summary": "Dominio en el uso de Jira y Xray para la gestión de defectos, el diseño de casos de prueba y la colaboración estrecha con equipos de desarrollo. Mi labor ha incluido el diseño y ejecución de casos de prueba para validar funcionalidad y rendimiento, abarcando pruebas unitarias, de integración, de validación, de aceptación, etc. Además, he aplicado metodologías ágiles para garantizar la adaptabilidad y la rápida respuesta a las necesidades cambiantes de los proyectos, contribuyendo activamente en Confluence. He participado en proyectos destacados como Burger King, Dunkin' Donuts, Pizzería del Poble, Grupo Alsea, entre otros, ofreciendo ideas y retroalimentación constructiva en reuniones de equipo para asegurar la mejor experiencia para los usuarios finales. Asimismo, he utilizado herramientas como Postman para la automatización de pruebas, trabajado con bases de datos PostgreSQL y estoy familiarizado con los servicios en la nube de AWS.",
       "highlights": ["Started the company"],
       "url": "https://windelivery.io/"
     }
@@ -42,12 +42,11 @@
     {
       "institution": "IES Albarregas",
       "url": "https://sites.google.com/iesalbarregas.es/portada/inicio",
-      "area": "CFGS Desarrollo de aplicaciones web",
+      "area": "Ciclo Formativo de Grado Superior en Desarrollo de aplicaciones web",
       "studyType": "CFGS Desarrollo de aplicaciones web",
       "startDate": "2021-09-01",
       "endDate": "2023-12-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL"]
+      "score": "4.0"
     }
   ],
   "awards": [
@@ -104,12 +103,7 @@
     {
       "name": "TypeScript",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Typescript"]
     },
     {
       "name": "Angular",
@@ -117,9 +111,9 @@
       "keywords": ["Desarrollo Web", "Frontend", "Angular", "Angular JS"]
     },
     {
-      "name": "RXJS",
+      "name": "RxJS",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "RXJS"]
+      "keywords": ["Desarrollo Web", "Frontend", "RxJS"]
     },
     {
       "name": "MySQL",
@@ -134,7 +128,12 @@
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+      "keywords": ["Desarrollo Web", "Backend", "Node", "Servidor"]
+    },
+    {
+      "name": "Express",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "Express", "Servidor"]
     },
     {
       "name": "Git",
@@ -185,19 +184,19 @@
       "github": ""
     },
     {
-      "name": "SuperHero API",
+      "name": "FictiShop v1.0",
       "isActive": true,
-      "description": "Proyecto realizado durante el CFGS de Desarrollo de Aplicaciones Web, utilizando JavaScript Vanilla para interactuar con una API. En este caso, se empleó SuperHeroAPI.",
-      "highlights": ["JavaScript"],
-      "url": "https://rubenec99.github.io/SuperHeroAPIRubenEscudero.github.io/",
+      "description": "Proyecto realizado durante el CFGS de Desarrollo de Aplicaciones Web. Creé FictiShop v1.0, una tienda online ficticia. Esta experiencia me brindó la oportunidad de aprender los fundamentos del framework Angular y poner en práctica mis conocimientos de desarrollo web.",
+      "highlights": ["Angular", "Typescript", "Bootstrap"],
+      "url": "https://ficti-shop-v1-0.vercel.app/",
       "github": ""
     },
     {
-      "name": "FictiShop v1.0",
+      "name": "SuperHero API",
       "isActive": true,
-      "description": "Proyecto realizado durante el CFGS de Desarrollo de Aplicaciones Web. Llevé a cabo un proyecto centrado en el aprendizaje básico del framework Angular. Este consistió en la creación de una tienda ficticia de simplicidad destacada, la cual implicaba la interacción con una API de artículos aleatorios.",
-      "highlights": ["Angular"],
-      "url": "https://ficti-shop-v1-0.vercel.app/",
+      "description": "Este proyecto, realizado durante el CFGS de Desarrollo de Aplicaciones Web, se centra en la creación de una aplicación web que interactúa con la API SuperHero API utilizando JavaScript Vanilla. La aplicación permite a los usuarios buscar y explorar información sobre superhéroes.",
+      "highlights": ["JavaScript", "HTML5", "CSS3"],
+      "url": "https://rubenec99.github.io/SuperHeroAPIRubenEscudero.github.io/",
       "github": ""
     }
   ]
