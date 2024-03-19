@@ -38,6 +38,35 @@
       "url": "https://windelivery.io/"
     }
   ],
+  "certificates": [
+    {
+      "name": "Master en JavaScript: JS, jQuery, Angular, NodeJS",
+      "position": "",
+      "startDate": "2023",
+      "endDate": null,
+      "summary": "Programación desde cero y desarrollo web con JavaScript, JSON, TypeScript, Angular, Node, MEAN, +30 horas",
+      "highlights": ["Started the company"],
+      "url": "https://www.udemy.com/certificate/UC-861dd556-aa36-42bb-afb7-b7faf85b4305/"
+    },
+    {
+      "name": "Servlets y JSPs: Java Web y Java EE",
+      "position": "",
+      "startDate": "2023",
+      "endDate": null,
+      "summary": "Curso sobre Servlets y JSPs en el contexto de desarrollo web con Java, abordando conceptos fundamentales de Java Web y Java EE.",
+      "highlights": ["Started the company"],
+      "url": "https://www.udemy.com/certificate/UC-72b389fa-1247-4519-bf29-1a85edb96c55/"
+    },
+    {
+      "name": "Software Testing Avanzado",
+      "position": "",
+      "startDate": "2023",
+      "endDate": null,
+      "summary": "Curso para construir calidad para un producto a nivel Senior QA o Lead QA con JIRA + Zephyr + Jmeter y más!",
+      "highlights": ["Started the company"],
+      "url": "https://www.udemy.com/certificate/UC-2b6ca9a5-44df-4189-adfa-62fbac02a5f0/"
+    }
+  ],
   "education": [
     {
       "institution": "IES Albarregas",
@@ -55,14 +84,6 @@
       "date": "2014-11-01",
       "awarder": "Company",
       "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
     }
   ],
   "publications": [
