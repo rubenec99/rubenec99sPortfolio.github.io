@@ -134,7 +134,24 @@
     {
       "name": "Flutter",
       "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "Flutter", "Dart"]
+      "keywords": [
+        "Desarrollo Web",
+        "Desarrollo Mobile",
+        "Frontend",
+        "Flutter",
+        "Dart"
+      ]
+    },
+    {
+      "name": "Dart",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Desarrollo Mobile",
+        "Frontend",
+        "Flutter",
+        "Dart"
+      ]
     },
     {
       "name": "MySQL",
