@@ -132,6 +132,11 @@
       "keywords": ["Desarrollo Web", "Frontend", "Angular", "Angular JS"]
     },
     {
+      "name": "Flutter",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Flutter", "Dart"]
+    },
+    {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
