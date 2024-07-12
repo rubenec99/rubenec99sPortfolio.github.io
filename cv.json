@@ -97,21 +97,6 @@
   ],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
-    },
-    {
-      "name": "Bootstrap",
-      "level": "Avanzado",
-      "keywords": ["Desarrollo Web", "Frontend", "Bootstrap"]
-    },
-    {
       "name": "Java",
       "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Frontend", "Java"]
@@ -154,16 +139,6 @@
       ]
     },
     {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos",
-        "SQL",
-        "Almacenamiento de Datos",
-        "Backend"
-      ]
-    },
-    {
       "name": "Node",
       "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Backend", "Node", "Servidor"]
@@ -172,6 +147,16 @@
       "name": "Express",
       "level": "Avanzado",
       "keywords": ["Desarrollo Web", "Backend", "Express", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
     },
     {
       "name": "Git",
